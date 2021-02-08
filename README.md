@@ -1,12 +1,12 @@
 # [LFP]Practica1 Archivos de Entrada
 
-### Universidad de San Carlos de Guatemala
-### Facultad de Ingeniería
-### Escuela de Ciencias y Sistemas
-### Lenguajes Formales y de Programación
-### Primer Semestre 2021
+Universidad de San Carlos de Guatemala  
+Facultad de Ingeniería  
+Escuela de Ciencias y Sistemas  
+Lenguajes Formales y de Programación  
+Primer Semestre 2021
 
-### [archivo1.lfp](archivo1.lfp)
+### [Archivo1.lfp](Archivo1.lfp)
 
 ```
 TELEFONOS = 43553464,  35360521,  45645435,  54624354,  35445534,  34342234,  54453453,  53454345 BUSCAR 54453111, ORDENAR
